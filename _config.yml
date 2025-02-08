@@ -1,15 +1,15 @@
 # Site settings
 title: 安全技术
-SEOTitle: 安全技术交流 | 分享
+SEOTitle: Explore the Security Universe | Share
 header-img: img/aicode.jpg
-description: "work hard."
-keyword: "seensec, iOS, Apple, Data, Pentest"
+description: "From Code to Creation."
+keyword: "seensec, datasec, web, Data, Pentest"
 url: "http://seensec.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "SecCode Smarter, Not Only Harder!"
 
 
 
